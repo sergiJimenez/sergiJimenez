@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=ff0000&style=flat" alt="sergijimenez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergijimenez" alt="sergijimenez" /></a> </p>
-
 - 🔭 I’m currently working on [GurmannPort]((private repository))
 
 - 🌱 I’m currently learning **ReactJS** and **Unity**
@@ -28,3 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergijimenez&theme=dark" alt="sergijimenez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergijimenez&show_icons=true&theme=dark&locale=en" alt="sergijimenez" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergijimenez" alt="sergijimenez" /></a> </p>
