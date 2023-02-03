@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GurmannPort]((private repository))
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** and **Unity**
 
 - 👨‍💻 All of my projects are available at [https://columbuscode.es](https://columbuscode.es)
 
