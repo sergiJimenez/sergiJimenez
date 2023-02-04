@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
 <h3 align="center">Humble programmer coding a humble programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=ff0000&style=flat" alt="sergijimenez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=00aaff&style=flat" alt="sergijimenez" /> </p>
 
-- 🔭 I’m currently working on [GurmannPort]((private repository))
+- 🔭 I’m currently working on [GurmannPort]((private repository)).
 
-- 🌱 I’m currently learning **ReactJS** and **Unity**
+- 🌱 I’m currently learning **ReactJS** and **Unity**.
 
-- 👨‍💻 All of my projects are available at [https://columbuscode.es](https://columbuscode.es)
+- 👨‍💻 All of my projects are available at [https://columbuscode.es](https://columbuscode.es).
 
-- 📫 How to reach me **hi@columbuscode.es**
+- 📫 How to reach me **hi@columbuscode.es**.
 
 - ⚡ Fun fact **Mia Wallace joke was fun. Change my mind.**
 
