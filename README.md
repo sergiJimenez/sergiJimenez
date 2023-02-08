@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
-<h3 align="center">Humble programmer coding a humble programmer.</h3>
+<h3 align="center">Humble programmer coding a humble programs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=00aaff&style=flat" alt="sergijimenez" /> </p>
 
