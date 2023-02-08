@@ -23,8 +23,8 @@
 
 [comment]: <> (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergijimenez&show_icons=true&theme=dark&locale=en&layout=compact" alt="sergijimenez" /></p>)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergijimenez&show_icons=true&theme=dark&locale=en" alt="sergijimenez" /></p>
+[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergijimenez&show_icons=true&theme=dark&locale=en" alt="sergijimenez" /></p>)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergijimenez&theme=dark" alt="sergijimenez" /></p>
+[comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergijimenez&theme=dark" alt="sergijimenez" /></p>)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergijimenez" alt="sergijimenez" /></a> </p>
+[comment]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergijimenez" alt="sergijimenez" /></a> </p>)
