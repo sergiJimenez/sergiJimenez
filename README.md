@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=00aaff&style=flat" alt="sergijimenez" /> </p>
 
-- 🔭 I’m currently working on [GurmannPort]((private repository)).
+- 🌅 The last completed project is [columbuscode](https://github.com/sergiJimenez/columbuscode).
+
+- 🔭 I’m currently working on [gurmannPort] (private repository).
 
 - 🌱 I’m currently learning **ReactJS** and **Unity**.
 
