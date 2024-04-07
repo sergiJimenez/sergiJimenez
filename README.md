@@ -9,15 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=00aaff&style=flat" alt="sergijimenez" />
 </p>
 
-- 🌅 The last completed project is [columbuscode](https://github.com/sergiJimenez/columbuscode).
+- 🌅 The last completed project is [Falcon GPS](https://github.com/sergiJimenez/falconGPS).
 
-- 🔭 I’m currently working on [gurmannPort] (private repository).
+- 🔭 I’m currently working on Docker.
 
-- 🌱 I’m currently learning **Angular**, **Unity** and **C#**.
+- 🌱 I’m currently learning **Docker** and always **Angular**.
 
 - 👨‍💻 All of my projects are available at [https://columbuscode.es](https://columbuscode.es).
 
-- 📫 How to reach me **hi@columbuscode.es**.
+- 📫 You could reach me in [LinkedIn](https://www.linkedin.com/in/sergijim/).
 
 - ⚡ Fun fact **Mia Wallace joke was fun. Change my mind.**
 
