@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Sergi
+  Hi 👋<br> I'm Sergi
 </h1>
 <h3 align="center">
   Humble programmer coding humble programs.
@@ -9,13 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=00aaff&style=flat" alt="sergijimenez" />
 </p>
 
-- 🌅 The last completed project is [Falcon GPS](https://github.com/sergiJimenez/falconGPS).
+- 🌅 The last completed project is [Copy-Ups! 😯](https://github.com/sergiJimenez/copyUps).
 
 - 🔭 I’m currently working on Docker.
 
-- 🌱 I’m currently learning **Docker** and always **Angular**.
-
-- 👨‍💻 All of my projects are available at [https://columbuscode.es](https://columbuscode.es).
+- 🌱 I’m currently learning **Docker**, and always **Angular**.
 
 - 📫 You could reach me in [LinkedIn](https://www.linkedin.com/in/sergijim/).
 
@@ -23,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sergijim" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergijim" height="30" width="40" />
+  <a href="https://linkedin.com/in/sergijim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergijim" height="30" width="40" />
   </a>
 </p>
 
