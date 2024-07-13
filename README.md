@@ -5,10 +5,6 @@
   Humble programmer coding humble programs.
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sergijimenez&label=Profile%20views&color=00aaff&style=flat" alt="sergijimenez" />
-</p>
-
 - 🌅 The last completed project is [Copy-Ups! 😯](https://github.com/sergiJimenez/copyUps).
 
 - 🔭 I’m currently working on Docker.
