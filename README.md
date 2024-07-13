@@ -1,9 +1,6 @@
 <h1 align="center">
   Hi 👋<br> I'm Sergi
 </h1>
-<h3 align="center">
-  Humble programmer coding humble programs.
-</h3>
 
 - 🌅 The last completed project is [Copy-Ups! 😯](https://github.com/sergiJimenez/copyUps).
 
