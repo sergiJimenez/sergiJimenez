@@ -7,9 +7,9 @@
 
 - 🌅 The last completed project is [Copy-Ups! 😯](https://github.com/sergiJimenez/copyUps).
 
-- 🔭 I’m currently working on Docker.
+- 🔭 I’m currently working on Typescript.
 
-- 🌱 I’m currently learning **Docker**, and always **Angular**.
+- 🌱 I’m currently learning **Git**, and always **Angular**.
 
 - 📫 You could reach me in [LinkedIn](https://www.linkedin.com/in/sergijim/).
 
