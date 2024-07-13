@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋<br> I'm Sergi
+  Hi, I'm Sergi 👋
 </h1>
 
 - 🌅 The last completed project is [Copy-Ups! 😯](https://github.com/sergiJimenez/copyUps).
