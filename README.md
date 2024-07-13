@@ -13,7 +13,7 @@
 
 - 📫 You could reach me in [LinkedIn](https://www.linkedin.com/in/sergijim/).
 
-- ⚡ Fun fact **Mia Wallace joke was fun. Change my mind.**
+- ⚡ Fun fact: **Mia Wallace joke was fun. Change my mind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
