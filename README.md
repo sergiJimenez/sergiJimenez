@@ -4,7 +4,7 @@
 
 - 🌅 The last completed project is [Copy-Ups! 😯](https://github.com/sergiJimenez/copyUps).
 
-- 🔭 I’m currently working on **Typescript**.
+- 🔭 I’m currently working on **React**.
 
 - 🌱 I’m currently learning **Git**, and always **Angular**.
 
