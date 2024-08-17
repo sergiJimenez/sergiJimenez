@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React**.
 
-- 🌱 I’m currently learning **Git**, and always **Angular**.
+- 🌱 I’m currently learning **React**, and always **Angular**.
 
 - 📫 You could reach me in [LinkedIn](https://www.linkedin.com/in/sergijim/).
 
